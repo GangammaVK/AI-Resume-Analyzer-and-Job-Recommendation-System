@@ -1,0 +1,11 @@
+Test ID,Test Case,Expected Result
+TC01,Upload a valid PDF resume,Resume text is extracted
+TC02,Upload a valid DOCX resume,Resume text is extracted
+TC03,Upload an unsupported file,Application rejects unsupported type
+TC04,Resume contains Python and SQL,Python and SQL are detected
+TC05,Resume has more Data Analyst skills,Data Analyst score increases logically
+TC06,Select a target role,Found and missing skills are shown
+TC07,Missing skills exist,Learning roadmap is generated
+TC08,Download report,PDF report is generated
+TC09,Resume contains no dictionary skills,Application displays a warning
+TC10,Resume exceeds 5 MB,Application rejects the file

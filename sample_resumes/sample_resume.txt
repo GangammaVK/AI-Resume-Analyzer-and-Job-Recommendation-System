@@ -1,0 +1,19 @@
+JANE STUDENT
+Computer Science Student
+
+SUMMARY
+Computer Science student interested in data analytics and machine learning.
+
+SKILLS
+Python, SQL, Excel, Pandas, Power BI, NumPy, Machine Learning, Scikit-learn,
+Git, GitHub, HTML, CSS, JavaScript, React, MongoDB, Flask.
+
+PROJECTS
+Sales Dashboard:
+Created a data analysis dashboard using Python, Pandas, Excel and Power BI.
+
+Machine Learning Project:
+Built a classification model using Python and scikit-learn.
+
+EDUCATION
+Bachelor of Engineering in Computer Science.

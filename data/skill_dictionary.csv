@@ -1,0 +1,66 @@
+category,skill
+Programming,python
+Programming,java
+Programming,javascript
+Programming,typescript
+Programming,cpp
+Programming,csharp
+Programming,html
+Programming,css
+Programming,sql
+Programming,php
+Programming,r
+Web,react
+Web,angular
+Web,vue
+Web,nodejs
+Web,express
+Web,django
+Web,flask
+Web,fastapi
+Web,nextjs
+Web,rest api
+Web,apis
+Data,pandas
+Data,numpy
+Data,excel
+Data,power bi
+Data,tableau
+Data,matplotlib
+Data,plotly
+Data,data analysis
+Data,statistics
+Machine Learning,machine learning
+Machine Learning,scikit learn
+Machine Learning,tensorflow
+Machine Learning,keras
+Machine Learning,pytorch
+Machine Learning,deep learning
+Machine Learning,cnn
+Machine Learning,computer vision
+Machine Learning,nlp
+Machine Learning,transformers
+Machine Learning,hugging face
+Machine Learning,llm
+Machine Learning,rag
+Machine Learning,yolo
+Database,mysql
+Database,postgresql
+Database,mongodb
+Database,sqlite
+Database,redis
+Cloud and DevOps,docker
+Cloud and DevOps,aws
+Cloud and DevOps,azure
+Cloud and DevOps,gcp
+Cloud and DevOps,cloud
+Cloud and DevOps,mlflow
+Cloud and DevOps,git
+Cloud and DevOps,github
+Cloud and DevOps,linux
+Cloud and DevOps,kubernetes
+Tools,opencv
+Tools,jupyter
+Tools,streamlit
+Tools,spaCy
+Tools,nltk
